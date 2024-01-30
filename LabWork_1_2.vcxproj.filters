@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\Part_1">
+      <UniqueIdentifier>{d9d2d383-09a3-471b-a249-db83b025d983}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Part_2">
+      <UniqueIdentifier>{68aecbab-a658-47d9-98d6-d776d0318711}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Template_Part_1">
+      <UniqueIdentifier>{03e46d28-b22b-449e-92f5-6e065b290a5d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Template_Part_2">
+      <UniqueIdentifier>{a8068af3-ec2c-44a1-90e5-692628decd6d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Part_3">
+      <UniqueIdentifier>{474ebc13-c32f-4fe3-b340-a240b686bacc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenu.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Select_Of_Data_Type.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Check.cpp">
+      <Filter>Исходные файлы\Part_1</Filter>
+    </ClCompile>
+    <ClCompile Include="quantity.cpp">
+      <Filter>Исходные файлы\Part_1</Filter>
+    </ClCompile>
+    <ClCompile Include="SizeCheck.cpp">
+      <Filter>Исходные файлы\Part_2</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu_Part_3.cpp">
+      <Filter>Исходные файлы\Part_3</Filter>
+    </ClCompile>
+    <ClCompile Include="File_Check.cpp">
+      <Filter>Исходные файлы\Part_3</Filter>
+    </ClCompile>
+    <ClCompile Include="Exercise_1_Part_3.cpp">
+      <Filter>Исходные файлы\Part_3</Filter>
+    </ClCompile>
+    <ClCompile Include="Display_Part_3.cpp">
+      <Filter>Исходные файлы\Part_3</Filter>
+    </ClCompile>
+    <ClCompile Include="Data_Check_Part_3.cpp">
+      <Filter>Исходные файлы\Part_3</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Library.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Prototypes.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu_Part_1.h">
+      <Filter>Файлы заголовков\Template_Part_1</Filter>
+    </ClInclude>
+    <ClInclude Include="InsertArr.h">
+      <Filter>Файлы заголовков\Template_Part_1</Filter>
+    </ClInclude>
+    <ClInclude Include="Task_1.h">
+      <Filter>Файлы заголовков\Template_Part_1</Filter>
+    </ClInclude>
+    <ClInclude Include="Sum.h">
+      <Filter>Файлы заголовков\Template_Part_1</Filter>
+    </ClInclude>
+    <ClInclude Include="Task_2.h">
+      <Filter>Файлы заголовков\Template_Part_1</Filter>
+    </ClInclude>
+    <ClInclude Include="SearchEl1.h">
+      <Filter>Файлы заголовков\Template_Part_1</Filter>
+    </ClInclude>
+    <ClInclude Include="SearchEl2.h">
+      <Filter>Файлы заголовков\Template_Part_1</Filter>
+    </ClInclude>
+    <ClInclude Include="Negative.h">
+      <Filter>Файлы заголовков\Template_Part_1</Filter>
+    </ClInclude>
+    <ClInclude Include="Task_3.h">
+      <Filter>Файлы заголовков\Template_Part_1</Filter>
+    </ClInclude>
+    <ClInclude Include="Size_of_Array.h">
+      <Filter>Файлы заголовков\Template_Part_1</Filter>
+    </ClInclude>
+    <ClInclude Include="Create_of_new_array.h">
+      <Filter>Файлы заголовков\Template_Part_1</Filter>
+    </ClInclude>
+    <ClInclude Include="Display_Part_1.h">
+      <Filter>Файлы заголовков\Template_Part_1</Filter>
+    </ClInclude>
+    <ClInclude Include="Sum_of_elements.h">
+      <Filter>Файлы заголовков\Template_Part_2</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu_Part_2.h">
+      <Filter>Файлы заголовков\Template_Part_2</Filter>
+    </ClInclude>
+    <ClInclude Include="Maximum_Sum.h">
+      <Filter>Файлы заголовков\Template_Part_2</Filter>
+    </ClInclude>
+    <ClInclude Include="Input_of_Matrix_Elements.h">
+      <Filter>Файлы заголовков\Template_Part_2</Filter>
+    </ClInclude>
+    <ClInclude Include="Initialization_Of_Result_Matrix.h">
+      <Filter>Файлы заголовков\Template_Part_2</Filter>
+    </ClInclude>
+    <ClInclude Include="Exercise_2_Part_2.h">
+      <Filter>Файлы заголовков\Template_Part_2</Filter>
+    </ClInclude>
+    <ClInclude Include="Exercise_1_Part_2.h">
+      <Filter>Файлы заголовков\Template_Part_2</Filter>
+    </ClInclude>
+    <ClInclude Include="DisplayPart_2.h">
+      <Filter>Файлы заголовков\Template_Part_2</Filter>
+    </ClInclude>
+    <ClInclude Include="DataCheck_Part_2.h">
+      <Filter>Файлы заголовков\Template_Part_2</Filter>
+    </ClInclude>
+    <ClInclude Include="Count_Negative_Elements.h">
+      <Filter>Файлы заголовков\Template_Part_2</Filter>
+    </ClInclude>
+    <ClInclude Include="Comparison.h">
+      <Filter>Файлы заголовков\Template_Part_2</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
